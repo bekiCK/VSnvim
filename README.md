@@ -15,7 +15,7 @@ A lightweight and efficient Neovim configuration optimized for Termux users. Thi
 
 1. Clone this repository
 ```
-git clone https://github.com/yourusername/your-repo.git ~/.config/nvim 
+git clone https://github.com/bekiCK/nvimTermux.git ~/.config/nvim 
 ```
 2. Install Neovim (if not installed)
 ```
